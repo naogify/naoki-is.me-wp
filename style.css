@@ -1,14 +1,10 @@
 /*
- Theme Name:   Your-Theme-Name
- Description:  Your-Theme-Name Theme
+ Theme Name:   naoki-is.me theme
+ Description:  The child theme for my blog.
  Author:       Naoki Ohashi
  Author URI:   https://naoki-is.me/
- Template:     lightning
+ Template:     neatly
  Version:      1.0.0
  License:      GNU General Public License v2 or later
  License URI:  http://www.gnu.org/licenses/gpl-2.0.html
 */
-.wp-block-media-text.alignwide.uotani-test h2 {
-    background: white;
-    border:none;
-}
